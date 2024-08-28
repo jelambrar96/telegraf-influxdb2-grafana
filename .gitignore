@@ -1,2 +1,7 @@
 .env
 
+*.tar.gz
+
+telegraf/telegraf.conf
+node_exporter/node_exporter*/
+prometheus/prometheus*/
